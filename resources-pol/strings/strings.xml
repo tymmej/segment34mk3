@@ -395,7 +395,7 @@
     <string id="settings_date_format" scope="settings">Format daty</string>
     <string id="settings_date_format_auto" scope="settings">Auto - DDD, DD MMMM YYYY (rok pominięty dla dużej czcionki)</string>
     <string id="settings_date_format_custom" scope="settings">Własny - wpisz format poniżej</string>
-    <string id="settings_date_custom_format" scope="settings">Format (DDD=dzień tyg. DD=dzień MM=mies.# MMMM=miesiąc YYYY WW=tydzień)</string>
+    <string id="settings_date_custom_format" scope="settings">Format (o=dzień tyg. d=dzień m=mies.# n=miesiąc y=rok w=tydzień)</string>
     <string id="settings_alternative_timezone_1_label" scope="settings">Etykieta alternatywnej strefy czasowej 1</string>
     <string id="settings_alternative_timezone_1_offset" scope="settings">Przesunięcie alternatywnej strefy czasowej 1</string>
     <string id="settings_alternative_timezone_2_label" scope="settings">Etykieta alternatywnej strefy czasowej 2</string>
